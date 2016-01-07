@@ -1,4 +1,4 @@
-ii# Quintesselator - Demo for Web developer role
+# Quintesselator - Demo for Web developer role
 This is a simple demo to showcase a esponsive calculator developed using HTML, CSS and JavaScript + Bootstrap for responsiveness. I'm using Laravel just for the authentication and user registration sides of the demo.
 
 ### To install, please follow the steps below
