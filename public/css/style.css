@@ -1,0 +1,42 @@
+div.row.main {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+div.header {
+	margin-bottom: 25px;
+}
+div.calculator, div#historyLog {
+	min-height: 325px;
+	margin-bottom: 20px;
+}
+textarea#calculatorDisplay {
+	resize: none;
+	font-size: xx-large;
+}
+button.btn {
+	width: 100%;
+}
+
+div.calculatorButtons .row {
+	margin-top: 10px;
+}
+.log #historyLog {
+	background-color: white;
+	border: 1px solid #cecece;
+	font-size: large;
+}
+.form-heading {
+	margin-bottom: 30px;
+}
+.bottom-aligned {
+	margin-top: 14px;
+}
+span.error {
+	color: red;
+}
+
+span.auth-message {
+	line-height: 50px;
+	margin-right: 30px;
+}
