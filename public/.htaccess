@@ -1,6 +1,4 @@
 Options -MultiViews
-#RewriteEngine On
-#RewriteBase /~jz/quintesselator/public/
 
 RewriteRule ^(.*)/$ $1 [L,R=301]
 
