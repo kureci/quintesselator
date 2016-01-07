@@ -28,6 +28,7 @@ If you get errors when loading the page, try changing the group for the whole re
 
 And then within the root directory of the project
 ```
+php artisan migrate
 php artisan key:generate
 ```
 
